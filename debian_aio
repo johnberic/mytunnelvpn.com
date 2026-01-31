@@ -12,8 +12,8 @@ HYSTERIA_TYPE='default';
 PORT_VLESS='442';
 API_LINK='https://mytunnelvpn.com/api/authentication';
 API_KEY='@Tknetwork';
-DOMAIN=6bi2.tkdns.top
-NS=aw6c.tkdns.top
+DOMAIN=ynca.tkdns.top
+NS=mycx.tkdns.top
 timedatectl set-timezone Asia/Riyadh
 if [[ $(grep "nogroup" /etc/group) ]]; then
     cert_group="nogroup"
